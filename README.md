@@ -1,6 +1,5 @@
-<h1 align="center"> Projeto - https://andradeelton.github.io/projeto/ </h1>
 <h1 align="center"> DevHouse Project </h1>
-
+<h4 align="center">  https://andradeelton.github.io/projeto/ </h4>
 <p align="center">
 Desafio Proposto por um grupo de amigos desenvolvedores.
 </p>
